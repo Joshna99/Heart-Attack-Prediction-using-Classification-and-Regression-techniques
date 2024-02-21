@@ -14,8 +14,8 @@ This project is aimed at predicting the likelihood of heart disease in individua
     - 'slp': Slope.
     - 'caa': Number of major vessels.
     - 'thall': Thallium stress test result.
-    - 'output': Target variable (0 for less chance of heart attack, 1 for more chance of heart attack).
-    ## Description of the Project
+    - 'output': Target variable (0 for less chance of heart attack, 1 for more chance of heart attack).    
+## Description of the Project
     This project aims to identify early indicators of heart disease by analyzing various health parameters. It involves data preprocessing to clean and prepare the data for analysis. Exploratory Data Analysis (EDA) provides valuable insights into the dataset, enabling us to make informed decisions regarding feature selection and model training.
 
 The feature selection process involves considering parameters with significant influence on heart disease prediction and handling multicollinearity to ensure model accuracy. Hyperparameter tuning is performed to optimize the machine learning models' performance.
