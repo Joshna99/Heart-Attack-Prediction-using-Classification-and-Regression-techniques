@@ -19,6 +19,7 @@ This project is aimed at predicting the likelihood of heart disease in individua
     This project aims to identify early indicators of heart disease by analyzing various health parameters. It involves data preprocessing to clean and prepare the data for analysis. Exploratory Data Analysis (EDA) provides valuable insights into the dataset, enabling us to make informed decisions regarding feature selection and model training.
 
 The feature selection process involves considering parameters with significant influence on heart disease prediction and handling multicollinearity to ensure model accuracy. Hyperparameter tuning is performed to optimize the machine learning models' performance.
+
     1. Importing libraries and datasets.
     2. Data understanding and exploration.
     3. Data preprocessing and cleaning.
